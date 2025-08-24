@@ -1,0 +1,32 @@
+---
+title: "Blog and notes"
+description: |
+  Under construction
+
+
+
+---
+
+### Blog
+
+::: {#blog}
+:::
+
+
+### Technical notes
+
+
+::: {#technotes}
+:::
+
+
+
+
+### Reading notes
+
+This section is constantly being updated.
+
+::: {#readnotes}
+:::
+
+
